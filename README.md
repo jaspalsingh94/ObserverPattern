@@ -3,7 +3,7 @@
 ## Software Engineering Observer Pattern HW
 
 Makefile included for linux compilation.
-run:  make all
+run -  make all
 
 To run main:
  ./MAIN
